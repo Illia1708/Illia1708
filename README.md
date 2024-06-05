@@ -2,7 +2,7 @@
 - 👀 I’m interested in sport and IT
 - 🌱 I’m currently learning Java Script
 - 💞️ I’m looking to collaborate on IT company
-- 📫 How to reach me to come to IF
+- 📫 How to reach me to 
 - ⚡ Fun fact: I like to make websites
 
 <!---
