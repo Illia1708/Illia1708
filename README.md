@@ -1,4 +1,4 @@
-<h1>- 👋 Hi, I’m @Illia</h1>
+<h1>- 👋 Hi, I’m Illia</h1>
 - 👀 I’m interested in sport and IT
 - 🌱 I’m currently learning Java Script
 - 💞️ I’m looking to collaborate on IT company
