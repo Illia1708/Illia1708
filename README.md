@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Illia
+<h1>- 👋 Hi, I’m @Illia</h1>
 - 👀 I’m interested in sport and IT
 - 🌱 I’m currently learning Java Script
 - 💞️ I’m looking to collaborate on IT company
-- 📫 How to reach me to 
+- 📫 How to reach me    https://www.instagram.com/iamillia__?igsh=MXg3Yzh3ampqYnltYQ%3D%3D&utm_source=qr
 - ⚡ Fun fact: I like to make websites
 
 <!---
